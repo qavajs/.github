@@ -1,4 +1,6 @@
-## Hi there 👋
+## @qavajs
+
+@qavajs framework is a solution that allow to singificantly reduces automation project setup time due to set of predefined steps, built-in page object solution and OOB integrations with other test related stuff (like EPAM ReportPortal etc.)
 
 <!--
 
