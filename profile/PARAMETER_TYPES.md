@@ -22,5 +22,5 @@ Additionally, framework adds own types to work with framework libraries
 |----------------|---------------------------------------------------------------------------------------------|
 | `{element}`    | Matches element alias (e.g 'Search > Input') that then will be resolved to wdio element     |
 | `{text}`       | Matches string that may be memory identifier (e.g '$username') and resolves correspondingly |
-
+ | `{validation}` | Matches string that resolves into function to validate passed values                        |
 
