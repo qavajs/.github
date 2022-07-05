@@ -15,12 +15,10 @@ default config is cucumber.js
 
 default profile is default
 
-### Built-in steps
+### Step Libraries
 
-[Steps WDIO](STEPS_WDIO.md)
+[Steps WDIO](https://github.com/qavajs/steps-wdio/blob/master/README.md)
 
-[Steps API](STEPS_API.md)
+[Steps Memory](https://github.com/qavajs/steps-memory/blob/main/README.md)
 
-### Built-in parameter types
-
-[Parameter Types](PARAMETER_TYPES.md)
+[Steps API](TBD)
