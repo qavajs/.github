@@ -12,5 +12,5 @@ and select modules to install. The system will generate a config file based on y
 ### Test execution
 `npx qavajs run --config <config> --profile <profile>`
 
-- default config is cucumber.js
+- default config is config.js or config.ts
 - default profile is default
