@@ -1,16 +1,15 @@
-## @qavajs
+## 🚀 @qavajs
+The **qavajs** is a modular test automation framework designed to minimize setup time and streamline the development of test scripts.
+It is mainly achieved due to built-in page object engine and ready-to-use sets of domain-agnostic BDD step definitions suitable for both API and UI testing of the web and native mobile applications. 
 
-https://qavajs.github.io/
-
-@qavajs framework is a solution that significantly reduces the setup time of automation projects. It provides a set of predefined steps, built-in page object solution and out of the box integrations with tools (like EPAM [ReportPortal](https://reportportal.io/), [Mobitru](https://mobitru.com/), BrowserCube,  etc.)
-
-### Installation from scratch
+### 📦 Installation from scratch
 `npm init @qavajs`
+This command configures qavajs and installs the necessary modules for your testing purposes.
 
-and select modules to install. The system will generate a config file based on your answers.
+### 🔬 Test execution
+`npx qavajs run` launches test execution.
 
-### Test execution
-`npx qavajs run --config <config> --profile <profile>`
-
-- default config is config.js or config.ts
-- default profile is default
+### 📘 Resources
+[Documentation](https://qavajs.github.io/docs/intro)  
+[Guides](https://qavajs.github.io/docs/category/guides)  
+[Code Examples](https://github.com/qavajs/demo)
