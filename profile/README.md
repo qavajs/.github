@@ -1,6 +1,6 @@
 ## 🚀 @qavajs
 The **qavajs** is a modular test automation framework designed to minimize setup time and streamline the development of test scripts.
-It is mainly achieved due to the built-in page object engine and ready-to-use sets of domain-agnostic BDD step definitions suitable for both API and UI testing of the web and native mobile applications. 
+Shipped with a built-in page object engine and ready-to-use sets of domain-agnostic BDD step definitions suitable for both API and UI testing of the web and native mobile applications, and a set of various available integrations with cloud providers ([Mobitru](https://mobitru.com/), SauceLabs, BrowserStack), Test and Report Management Systems ([Report Portal](https://reportportal.io/), Jira, and others)
 
 ### 📦 Installation from scratch
 ```
@@ -12,7 +12,6 @@ This command configures qavajs and installs the necessary modules for your testi
 ```
 npx qavajs run
 ```
-to launch test execution.
 
 ### 📘 Resources
 [Documentation](https://qavajs.github.io/docs/intro)  
