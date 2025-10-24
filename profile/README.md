@@ -17,3 +17,4 @@ npx qavajs run
 [Documentation](https://qavajs.github.io/docs/intro)  
 [Guides](https://qavajs.github.io/docs/category/guides)  
 [Code Examples](https://github.com/qavajs/demo)
+[Open Issues](https://github.com/issues/assigned?q=is%3Aissue%20state%3Aopen%20org%3Aqavajs)
